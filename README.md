@@ -24,4 +24,4 @@ Audio recorder on FPGA using SDRAM, more details in report (Chinese)
 實作 RSA 解碼器，利用 RS-232 介面和 Python 進行資料傳輸
 
 ## 實驗三
-實作簡單的錄音機，細節請參考 Report
+實作簡單的錄音機，細節請參考 Report
