@@ -7,7 +7,7 @@ Digital Circuits Lab (2017 Spring)
 
 ## Note
 * **BAD** coding style
-* 把 combinational 和 sequential 混在一起是不好的喔
+* 把 combinational 和 sequential 混在一起母湯喔
 
 ---
 # Digital Circuits Lab
