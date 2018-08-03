@@ -21,6 +21,10 @@ RSA decoder on FPGA, using Python for serial data trasmission on RS-232 interfac
 ## Lab3
 Audio recorder on FPGA using SDRAM, more details in report (Chinese)
 
+## Final Project
+A NIOS-II system that can load 3D models from SD card and render them on the screen in real time, link:
+https://github.com/victoresque/FPGA-Renderer
+
 ---
 # 數位電路實驗
 
@@ -32,3 +36,7 @@ Audio recorder on FPGA using SDRAM, more details in report (Chinese)
 
 ## 實驗三
 實作簡單的錄音機，細節請參考 Report
+
+## 期末專題
+基於 NIOS-II 的實時 3D 渲染。
+https://github.com/victoresque/FPGA-Renderer
