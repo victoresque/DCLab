@@ -5,10 +5,6 @@ Digital Circuits Lab (2017 Spring)
 * Quartus 16
 * DE2-115 FPGA board
 
-## Note
-* **BAD** coding style
-* 把 combinational 和 sequential 混在一起母湯喔
-
 ---
 # Digital Circuits Lab
 
